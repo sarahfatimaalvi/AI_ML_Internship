@@ -7,3 +7,5 @@ Project 3: https://outliers2-jfmhnpz6epgzatmlgjdkhw.streamlit.app/
 Project 4: https://employee-62yccc3zpuhv8tdzefeocp.streamlit.app/
 
 Project 5: https://genderclassification-hzopxnvpdd9wd33huoggdf.streamlit.app/
+
+Project 6: https://irisclusterr-iklrspp7393yvqhpzhny9h.streamlit.app/
