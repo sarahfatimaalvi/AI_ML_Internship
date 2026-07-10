@@ -13,3 +13,5 @@ Project 6: https://irisclusterr-iklrspp7393yvqhpzhny9h.streamlit.app/
 Project 7: https://malefemaleusing-cnn-ncpgajxgcfd2kw7xcox39z.streamlit.app/
 
 Project 8: https://adrq67am7bdbsmhwbubvpl.streamlit.app/
+
+Project 9: https://eyesdetection-exgpg5burycx4sbghqr6xq.streamlit.app/
